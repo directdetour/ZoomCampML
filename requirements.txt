@@ -1,1 +1,5 @@
-docker-compose
+numpy 
+pandas
+scikit-learn
+seaborn
+jupyter
